@@ -1,0 +1,110 @@
+<html>
+  <head>
+    <title>Monitoring</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/slidebars.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/customCSSNavigation.css">
+	<link rel="stylesheet" href="css/datepicker.css"></script>
+	<link rel="stylesheet" type="text/css" href="css/DateTimePicker.css"/>
+	<style type="text/css">
+			p
+			{
+				margin-left: 20px;
+			}
+			input
+			{
+				width: 200px;
+				padding: 10px;
+				margin-left: 20px;
+				margin-bottom: 20px;
+			}		
+		</style>
+	<title>Monitoring</title>		
+  </head>
+  <body>
+    <div id="sb-site">
+		
+		<div>
+		<div class="sb-open-left" style="float: left;">
+          <span class="glyphicon glyphicon-align-justify"></span>
+		</div>
+		</div>
+		<br>
+		<h3>Monitoring</h3>
+		<div style="width=100%">
+      <!-- site content. -->
+  <div class="container">
+  <form role="form" >
+    <div class="form-group">
+      <label for="sel1">Selector</label>
+      <select class="form-control" id="sel1">
+					<option value="MajaUTK4">Maja UTK4</option>
+					<option value="SnoopyUTK5">Snoopy UTK5</option>
+					<option value="SidUTK2">Sid UTK2</option>
+					<option value="ManniUTK1">Manni UTK1</option>
+					<option value="SebastianTK3">Sebastian TK3</option>
+					<option value="WilliUTK3">Willi UTK3</option>
+					<option value="DiegoTK1">Diego TK1</option>
+					<option value="AriellTK2">Ariell TK2</option>
+					<option value="NemoTK4">Nemo TK4</option>		
+      </select>
+      <br>
+	<h5>Von</h5>
+	<input id="dataFromInput" type="text" data-field="datetime" readonly>
+		<div id="dtBoxFrom"></div>
+	<h5>Bis</h5>
+	<input id="dataToInput" type="text" data-field="datetime" readonly>
+		<div id="dtBoxTo"></div>
+	<input type='button' onclick='changeDateFormatFrom()' value='Show'/>
+	<a href="diagramm.html" class="btn btn-primary btn-lg btn-block" role="button">Generate</a>
+	<div id= "fromJSON"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+    <div class="sb-slidebar sb-left" >
+                <a href='monitoring.html'>Monitoring</a>
+                <a href='configuration.html'>Configuration</a>
+                <a href='communication.html'>Communication</a>
+                <a href='news.html'>Home</a>
+    </div>
+	<script src="js/jquery-1.11.2.js"></script>
+	<script src="js/DateTimePicker.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/slidebars.js"></script>
+	<script type="text/javascript">
+		function changeDateFormatFrom()
+		{
+			var from = document.getElementById("dataFromInput").value;
+			var dateFrom = new Date (from.substring(6, 10),from.substring(3, 5), from.substring(0, 2), from.substring(11, 13), from.substring(14, 16));
+			var dateFromConvert = dateFrom.toISOString(); 
+			
+			
+			//var fromChanged="";
+			//fromChanged = from.substring(6, 10)+'-'+from.substring(3, 5)+'-'+from.substring(0, 2)+'T04'+':'+from.substring(11, 16);
+			//alert(fromChanged);
+			//var changedDateFrom = dateFrom.toISOString();
+			//new Date(year, month, day, hours, minutes, seconds, milliseconds) 
+			alert (dateFromConvert);
+			//return dateFrom;
+		}
+      (function($) {
+        $(document).ready(function() {
+          $.slidebars();
+        });
+      }) (jQuery);
+    </script>
+	<script type="text/javascript">
+			$(document).ready(function()
+			{
+				$("#dtBoxFrom").DateTimePicker();
+			});
+	
+			$(document).ready(function()
+			{
+				$("#dtBoxTo").DateTimePicker();
+			});
+	</script>
+  </body>
+</html>

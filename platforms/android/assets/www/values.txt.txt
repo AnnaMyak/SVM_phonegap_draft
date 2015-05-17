@@ -1,0 +1,3560 @@
+[
+  {
+    "$id": "1",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T12:21:00",
+    "valeur": -81.2772
+  },
+  {
+    "$id": "2",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T12:21:00",
+    "valeur": -20.925
+  },
+  {
+    "$id": "3",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T12:18:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "4",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T12:17:00",
+    "valeur": -76.8862
+  },
+  {
+    "$id": "5",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T12:13:00",
+    "valeur": -81.7581
+  },
+  {
+    "$id": "6",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T12:11:00",
+    "valeur": -18.9375
+  },
+  {
+    "$id": "7",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T12:11:00",
+    "valeur": -19.375
+  },
+  {
+    "$id": "8",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T12:11:00",
+    "valeur": -79.0617
+  },
+  {
+    "$id": "9",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T12:11:00",
+    "valeur": -19.98
+  },
+  {
+    "$id": "10",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T12:08:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "11",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T12:07:00",
+    "valeur": -76.8231
+  },
+  {
+    "$id": "12",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T12:06:00",
+    "valeur": -78.9653
+  },
+  {
+    "$id": "13",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T12:03:00",
+    "valeur": -79.5313
+  },
+  {
+    "$id": "14",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T12:01:00",
+    "valeur": -20.5
+  },
+  {
+    "$id": "15",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T12:01:00",
+    "valeur": -20.75
+  },
+  {
+    "$id": "16",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T12:01:00",
+    "valeur": -81.4038
+  },
+  {
+    "$id": "17",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T12:01:00",
+    "valeur": -20.4525
+  },
+  {
+    "$id": "18",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T11:58:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "19",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T11:57:00",
+    "valeur": -78.9694
+  },
+  {
+    "$id": "20",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T11:56:00",
+    "valeur": -79.7258
+  },
+  {
+    "$id": "21",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T11:53:00",
+    "valeur": -81.6309
+  },
+  {
+    "$id": "22",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T11:51:00",
+    "valeur": -19.125
+  },
+  {
+    "$id": "23",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T11:51:00",
+    "valeur": -18.5
+  },
+  {
+    "$id": "24",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T11:51:00",
+    "valeur": -79.0617
+  },
+  {
+    "$id": "25",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T11:51:00",
+    "valeur": -20.1825
+  },
+  {
+    "$id": "26",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T11:48:00",
+    "valeur": -20.375
+  },
+  {
+    "$id": "27",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T11:47:00",
+    "valeur": -81.305
+  },
+  {
+    "$id": "28",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T11:46:00",
+    "valeur": -81.0566
+  },
+  {
+    "$id": "29",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T11:43:00",
+    "valeur": -79.5313
+  },
+  {
+    "$id": "30",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T11:41:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "31",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T11:41:00",
+    "valeur": -20.5
+  },
+  {
+    "$id": "32",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T11:41:00",
+    "valeur": -80.4543
+  },
+  {
+    "$id": "33",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T11:41:00",
+    "valeur": -20.0475
+  },
+  {
+    "$id": "34",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T11:38:00",
+    "valeur": -18.75
+  },
+  {
+    "$id": "35",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T11:37:00",
+    "valeur": -81.3681
+  },
+  {
+    "$id": "36",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T11:36:00",
+    "valeur": -81.3101
+  },
+  {
+    "$id": "37",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T11:33:00",
+    "valeur": -80.931
+  },
+  {
+    "$id": "38",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T11:31:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "39",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T11:31:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "40",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T11:31:00",
+    "valeur": -80.7708
+  },
+  {
+    "$id": "41",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T11:31:00",
+    "valeur": -20.52
+  },
+  {
+    "$id": "42",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T11:28:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "43",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T11:27:00",
+    "valeur": -76.0025
+  },
+  {
+    "$id": "44",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T11:26:00",
+    "valeur": -78.7751
+  },
+  {
+    "$id": "45",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T11:23:00",
+    "valeur": -80.2948
+  },
+  {
+    "$id": "46",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T11:21:00",
+    "valeur": -19.71
+  },
+  {
+    "$id": "47",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T11:21:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "48",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T11:21:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "49",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T11:21:00",
+    "valeur": -79.3782
+  },
+  {
+    "$id": "50",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T11:18:00",
+    "valeur": -18.9375
+  },
+  {
+    "$id": "51",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T11:17:00",
+    "valeur": -77.5175
+  },
+  {
+    "$id": "52",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T11:16:00",
+    "valeur": -79.6624
+  },
+  {
+    "$id": "53",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T11:13:00",
+    "valeur": -80.6765
+  },
+  {
+    "$id": "54",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T11:11:00",
+    "valeur": -19.6875
+  },
+  {
+    "$id": "55",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T11:11:00",
+    "valeur": -19.3125
+  },
+  {
+    "$id": "56",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T11:11:00",
+    "valeur": -81.5304
+  },
+  {
+    "$id": "57",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T11:11:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "58",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T11:08:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "59",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T11:07:00",
+    "valeur": -79.6006
+  },
+  {
+    "$id": "60",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T11:06:00",
+    "valeur": -81.0566
+  },
+  {
+    "$id": "61",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T11:03:00",
+    "valeur": -80.931
+  },
+  {
+    "$id": "62",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T11:01:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "63",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T11:01:00",
+    "valeur": -19.3125
+  },
+  {
+    "$id": "64",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T11:01:00",
+    "valeur": -78.8718
+  },
+  {
+    "$id": "65",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T11:01:00",
+    "valeur": -19.44
+  },
+  {
+    "$id": "66",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T10:58:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "67",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T10:57:00",
+    "valeur": -81.9994
+  },
+  {
+    "$id": "68",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T10:56:00",
+    "valeur": -81.1834
+  },
+  {
+    "$id": "69",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T10:53:00",
+    "valeur": -80.2948
+  },
+  {
+    "$id": "70",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T10:51:00",
+    "valeur": -18.625
+  },
+  {
+    "$id": "71",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T10:51:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "72",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T10:51:00",
+    "valeur": -80.6442
+  },
+  {
+    "$id": "73",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T10:51:00",
+    "valeur": -20.8575
+  },
+  {
+    "$id": "74",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T10:48:00",
+    "valeur": -18.625
+  },
+  {
+    "$id": "75",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T10:47:00",
+    "valeur": -80.295
+  },
+  {
+    "$id": "76",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T10:46:00",
+    "valeur": -79.0286
+  },
+  {
+    "$id": "77",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T10:43:00",
+    "valeur": -81.3764
+  },
+  {
+    "$id": "78",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T10:41:00",
+    "valeur": -20.125
+  },
+  {
+    "$id": "79",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T10:41:00",
+    "valeur": -18.625
+  },
+  {
+    "$id": "80",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T10:41:00",
+    "valeur": -80.2644
+  },
+  {
+    "$id": "81",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T10:41:00",
+    "valeur": -19.98
+  },
+  {
+    "$id": "82",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T10:38:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "83",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T10:37:00",
+    "valeur": -75.6237
+  },
+  {
+    "$id": "84",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T10:36:00",
+    "valeur": -79.7891
+  },
+  {
+    "$id": "85",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T10:33:00",
+    "valeur": -80.0403
+  },
+  {
+    "$id": "86",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T10:31:00",
+    "valeur": -18.9375
+  },
+  {
+    "$id": "87",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T10:31:00",
+    "valeur": -20.625
+  },
+  {
+    "$id": "88",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T10:31:00",
+    "valeur": -79.6947
+  },
+  {
+    "$id": "89",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T10:31:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "90",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T10:28:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "91",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T10:27:00",
+    "valeur": -77.265
+  },
+  {
+    "$id": "92",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T10:26:00",
+    "valeur": -81.3735
+  },
+  {
+    "$id": "93",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T10:23:00",
+    "valeur": -81.6945
+  },
+  {
+    "$id": "94",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T10:21:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "95",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T10:21:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "96",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T10:21:00",
+    "valeur": -81.5937
+  },
+  {
+    "$id": "97",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T10:21:00",
+    "valeur": -19.845
+  },
+  {
+    "$id": "98",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T10:18:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "99",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T10:17:00",
+    "valeur": -79.1588
+  },
+  {
+    "$id": "100",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T10:16:00",
+    "valeur": -80.6764
+  },
+  {
+    "$id": "101",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T10:13:00",
+    "valeur": -79.913
+  },
+  {
+    "$id": "102",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T10:11:00",
+    "valeur": -13.3125
+  },
+  {
+    "$id": "103",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T10:11:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "104",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T10:11:00",
+    "valeur": -78.8718
+  },
+  {
+    "$id": "105",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T10:11:00",
+    "valeur": -21.1275
+  },
+  {
+    "$id": "106",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T10:08:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "107",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T10:07:00",
+    "valeur": -81.6206
+  },
+  {
+    "$id": "108",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T10:06:00",
+    "valeur": -78.9653
+  },
+  {
+    "$id": "109",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T10:03:00",
+    "valeur": -81.8854
+  },
+  {
+    "$id": "110",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T10:01:00",
+    "valeur": -20.3125
+  },
+  {
+    "$id": "111",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T10:01:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "112",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T10:01:00",
+    "valeur": -80.9607
+  },
+  {
+    "$id": "113",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T10:01:00",
+    "valeur": -19.44
+  },
+  {
+    "$id": "114",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T09:58:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "115",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T09:57:00",
+    "valeur": -82.2519
+  },
+  {
+    "$id": "116",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T09:56:00",
+    "valeur": -79.9793
+  },
+  {
+    "$id": "117",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T09:53:00",
+    "valeur": -79.8494
+  },
+  {
+    "$id": "118",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T09:51:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "119",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T09:51:00",
+    "valeur": -19.5625
+  },
+  {
+    "$id": "120",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T09:51:00",
+    "valeur": -79.8213
+  },
+  {
+    "$id": "121",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T09:51:00",
+    "valeur": -20.9925
+  },
+  {
+    "$id": "122",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T09:48:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "123",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T09:47:00",
+    "valeur": -76.5706
+  },
+  {
+    "$id": "124",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T09:46:00",
+    "valeur": -81.5003
+  },
+  {
+    "$id": "125",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T09:43:00",
+    "valeur": -81.8854
+  },
+  {
+    "$id": "126",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T09:41:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "127",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T09:41:00",
+    "valeur": -19.6875
+  },
+  {
+    "$id": "128",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T09:41:00",
+    "valeur": -80.0112
+  },
+  {
+    "$id": "129",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T09:41:00",
+    "valeur": -19.845
+  },
+  {
+    "$id": "130",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T09:38:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "131",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T09:37:00",
+    "valeur": -76.4444
+  },
+  {
+    "$id": "132",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T09:36:00",
+    "valeur": -80.1694
+  },
+  {
+    "$id": "133",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T09:33:00",
+    "valeur": -79.7858
+  },
+  {
+    "$id": "134",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T09:31:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "135",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T09:31:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "136",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T09:31:00",
+    "valeur": -81.2139
+  },
+  {
+    "$id": "137",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T09:31:00",
+    "valeur": -20.52
+  },
+  {
+    "$id": "138",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T09:28:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "139",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T09:27:00",
+    "valeur": -78.275
+  },
+  {
+    "$id": "140",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T09:26:00",
+    "valeur": -79.2821
+  },
+  {
+    "$id": "141",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T09:23:00",
+    "valeur": -81.7581
+  },
+  {
+    "$id": "142",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T09:21:00",
+    "valeur": -19.6875
+  },
+  {
+    "$id": "143",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T09:21:00",
+    "valeur": -20.75
+  },
+  {
+    "$id": "144",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T09:21:00",
+    "valeur": -79.125
+  },
+  {
+    "$id": "145",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T09:21:00",
+    "valeur": -20.52
+  },
+  {
+    "$id": "146",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T09:18:00",
+    "valeur": -18.5625
+  },
+  {
+    "$id": "147",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T09:17:00",
+    "valeur": -80.4212
+  },
+  {
+    "$id": "148",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T09:16:00",
+    "valeur": -80.4229
+  },
+  {
+    "$id": "149",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T09:13:00",
+    "valeur": -79.3404
+  },
+  {
+    "$id": "150",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T09:11:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "151",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T09:11:00",
+    "valeur": -18.5
+  },
+  {
+    "$id": "152",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T09:11:00",
+    "valeur": -81.4038
+  },
+  {
+    "$id": "153",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T09:11:00",
+    "valeur": -20.385
+  },
+  {
+    "$id": "154",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T09:08:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "155",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T09:07:00",
+    "valeur": -82.5044
+  },
+  {
+    "$id": "156",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T09:06:00",
+    "valeur": -81.6904
+  },
+  {
+    "$id": "157",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T09:03:00",
+    "valeur": -81.3128
+  },
+  {
+    "$id": "158",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T09:01:00",
+    "valeur": -20.125
+  },
+  {
+    "$id": "159",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T09:01:00",
+    "valeur": -20.625
+  },
+  {
+    "$id": "160",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T09:01:00",
+    "valeur": -79.0617
+  },
+  {
+    "$id": "161",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T09:01:00",
+    "valeur": -19.98
+  },
+  {
+    "$id": "162",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T08:58:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "163",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T08:57:00",
+    "valeur": -78.4013
+  },
+  {
+    "$id": "164",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T08:56:00",
+    "valeur": -79.5356
+  },
+  {
+    "$id": "165",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T08:53:00",
+    "valeur": -79.913
+  },
+  {
+    "$id": "166",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T08:51:00",
+    "valeur": -19.375
+  },
+  {
+    "$id": "167",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T08:51:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "168",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T08:51:00",
+    "valeur": -80.0112
+  },
+  {
+    "$id": "169",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T08:51:00",
+    "valeur": -20.4525
+  },
+  {
+    "$id": "170",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T08:48:00",
+    "valeur": -19.75
+  },
+  {
+    "$id": "171",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T08:47:00",
+    "valeur": -76.3181
+  },
+  {
+    "$id": "172",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T08:46:00",
+    "valeur": -79.4723
+  },
+  {
+    "$id": "173",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T08:43:00",
+    "valeur": -80.8674
+  },
+  {
+    "$id": "174",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T08:41:00",
+    "valeur": -19.75
+  },
+  {
+    "$id": "175",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T08:41:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "176",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T08:41:00",
+    "valeur": -80.9607
+  },
+  {
+    "$id": "177",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T08:41:00",
+    "valeur": -20.655
+  },
+  {
+    "$id": "178",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T08:38:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "179",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T08:37:00",
+    "valeur": -78.2119
+  },
+  {
+    "$id": "180",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T08:36:00",
+    "valeur": -80.5496
+  },
+  {
+    "$id": "181",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T08:33:00",
+    "valeur": -80.4856
+  },
+  {
+    "$id": "182",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T08:31:00",
+    "valeur": -19.5625
+  },
+  {
+    "$id": "183",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T08:31:00",
+    "valeur": -18.5625
+  },
+  {
+    "$id": "184",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T08:31:00",
+    "valeur": -79.125
+  },
+  {
+    "$id": "185",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T08:31:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "186",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T08:28:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "187",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T08:27:00",
+    "valeur": -80.1056
+  },
+  {
+    "$id": "188",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T08:26:00",
+    "valeur": -81.5003
+  },
+  {
+    "$id": "189",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T08:23:00",
+    "valeur": -80.4856
+  },
+  {
+    "$id": "190",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T08:21:00",
+    "valeur": -18.9375
+  },
+  {
+    "$id": "191",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T08:21:00",
+    "valeur": -19.4375
+  },
+  {
+    "$id": "192",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T08:21:00",
+    "valeur": -81.4671
+  },
+  {
+    "$id": "193",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T08:21:00",
+    "valeur": -20.1825
+  },
+  {
+    "$id": "194",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T08:18:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "195",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T08:17:00",
+    "valeur": -82.2519
+  },
+  {
+    "$id": "196",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T08:16:00",
+    "valeur": -79.2188
+  },
+  {
+    "$id": "197",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T08:13:00",
+    "valeur": -80.9946
+  },
+  {
+    "$id": "198",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T08:11:00",
+    "valeur": -78.9351
+  },
+  {
+    "$id": "199",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T08:11:00",
+    "valeur": -20.5875
+  },
+  {
+    "$id": "200",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T08:11:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "201",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T08:11:00",
+    "valeur": -19.875
+  },
+  {
+    "$id": "202",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T08:08:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "203",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T08:07:00",
+    "valeur": -81.1156
+  },
+  {
+    "$id": "204",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T08:06:00",
+    "valeur": -79.7258
+  },
+  {
+    "$id": "205",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T08:03:00",
+    "valeur": -80.2311
+  },
+  {
+    "$id": "206",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T08:01:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "207",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T08:01:00",
+    "valeur": -18.875
+  },
+  {
+    "$id": "208",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T08:01:00",
+    "valeur": -80.5809
+  },
+  {
+    "$id": "209",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T08:01:00",
+    "valeur": -19.845
+  },
+  {
+    "$id": "210",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T07:58:00",
+    "valeur": -19.75
+  },
+  {
+    "$id": "211",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T07:57:00",
+    "valeur": -76.3181
+  },
+  {
+    "$id": "212",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T07:56:00",
+    "valeur": -81.12
+  },
+  {
+    "$id": "213",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T07:53:00",
+    "valeur": -81.44
+  },
+  {
+    "$id": "214",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T07:51:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "215",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T07:51:00",
+    "valeur": -20.875
+  },
+  {
+    "$id": "216",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T07:51:00",
+    "valeur": -80.3277
+  },
+  {
+    "$id": "217",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T07:51:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "218",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T07:48:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "219",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T07:47:00",
+    "valeur": -75.9394
+  },
+  {
+    "$id": "220",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T07:46:00",
+    "valeur": -81.0566
+  },
+  {
+    "$id": "221",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T07:43:00",
+    "valeur": -79.9766
+  },
+  {
+    "$id": "222",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T07:41:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "223",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T07:41:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "224",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T07:41:00",
+    "valeur": -79.5681
+  },
+  {
+    "$id": "225",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T07:41:00",
+    "valeur": -19.7775
+  },
+  {
+    "$id": "226",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T07:38:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "227",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T07:37:00",
+    "valeur": -77.77
+  },
+  {
+    "$id": "228",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T07:36:00",
+    "valeur": -79.0286
+  },
+  {
+    "$id": "229",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T07:33:00",
+    "valeur": -81.7581
+  },
+  {
+    "$id": "230",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T07:31:00",
+    "valeur": -19.3125
+  },
+  {
+    "$id": "231",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T07:31:00",
+    "valeur": -20.3125
+  },
+  {
+    "$id": "232",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T07:31:00",
+    "valeur": -81.4671
+  },
+  {
+    "$id": "233",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T07:31:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "234",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T07:28:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "235",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T07:27:00",
+    "valeur": -79.79
+  },
+  {
+    "$id": "236",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T07:26:00",
+    "valeur": -79.9159
+  },
+  {
+    "$id": "237",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T07:23:00",
+    "valeur": -79.913
+  },
+  {
+    "$id": "238",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T07:21:00",
+    "valeur": -19.4375
+  },
+  {
+    "$id": "239",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T07:21:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "240",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T07:21:00",
+    "valeur": -79.0617
+  },
+  {
+    "$id": "241",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T07:21:00",
+    "valeur": -20.0475
+  },
+  {
+    "$id": "242",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T07:18:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "243",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T07:17:00",
+    "valeur": -82.1256
+  },
+  {
+    "$id": "244",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T07:16:00",
+    "valeur": -81.5003
+  },
+  {
+    "$id": "245",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T07:13:00",
+    "valeur": -81.8854
+  },
+  {
+    "$id": "246",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T07:11:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "247",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T07:11:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "248",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T07:11:00",
+    "valeur": -19.75
+  },
+  {
+    "$id": "249",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T07:11:00",
+    "valeur": -81.3405
+  },
+  {
+    "$id": "250",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T07:08:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "251",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T07:07:00",
+    "valeur": -80.8
+  },
+  {
+    "$id": "252",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T07:06:00",
+    "valeur": -80.4229
+  },
+  {
+    "$id": "253",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T07:03:00",
+    "valeur": -79.8494
+  },
+  {
+    "$id": "254",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T07:01:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "255",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T07:01:00",
+    "valeur": -19.3125
+  },
+  {
+    "$id": "256",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T07:01:00",
+    "valeur": -79.3149
+  },
+  {
+    "$id": "257",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T07:01:00",
+    "valeur": -19.845
+  },
+  {
+    "$id": "258",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T06:58:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "259",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T06:57:00",
+    "valeur": -75.5606
+  },
+  {
+    "$id": "260",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T06:56:00",
+    "valeur": -79.0286
+  },
+  {
+    "$id": "261",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T06:53:00",
+    "valeur": -81.8854
+  },
+  {
+    "$id": "262",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T06:51:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "263",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T06:51:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "264",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T06:51:00",
+    "valeur": -80.0745
+  },
+  {
+    "$id": "265",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T06:51:00",
+    "valeur": -21.33
+  },
+  {
+    "$id": "266",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T06:48:00",
+    "valeur": -18.5625
+  },
+  {
+    "$id": "267",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T06:47:00",
+    "valeur": -77.0125
+  },
+  {
+    "$id": "268",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T06:46:00",
+    "valeur": -80.0426
+  },
+  {
+    "$id": "269",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T06:43:00",
+    "valeur": -79.5313
+  },
+  {
+    "$id": "270",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T06:41:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "271",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T06:41:00",
+    "valeur": -20.875
+  },
+  {
+    "$id": "272",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T06:41:00",
+    "valeur": -81.2139
+  },
+  {
+    "$id": "273",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T06:41:00",
+    "valeur": -19.71
+  },
+  {
+    "$id": "274",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T06:38:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "275",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T06:37:00",
+    "valeur": -78.9694
+  },
+  {
+    "$id": "276",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T06:36:00",
+    "valeur": -81.5636
+  },
+  {
+    "$id": "277",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T06:33:00",
+    "valeur": -81.6309
+  },
+  {
+    "$id": "278",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T06:31:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "279",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T06:31:00",
+    "valeur": -18.5
+  },
+  {
+    "$id": "280",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T06:31:00",
+    "valeur": -78.9351
+  },
+  {
+    "$id": "281",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T06:31:00",
+    "valeur": -20.8575
+  },
+  {
+    "$id": "282",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T06:28:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "283",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T06:27:00",
+    "valeur": -81.2419
+  },
+  {
+    "$id": "284",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T06:26:00",
+    "valeur": -80.1694
+  },
+  {
+    "$id": "285",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T06:23:00",
+    "valeur": -79.5949
+  },
+  {
+    "$id": "286",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T06:21:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "287",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T06:21:00",
+    "valeur": -20.375
+  },
+  {
+    "$id": "288",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T06:21:00",
+    "valeur": -81.2139
+  },
+  {
+    "$id": "289",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T06:21:00",
+    "valeur": -19.71
+  },
+  {
+    "$id": "290",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T06:18:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "291",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T06:17:00",
+    "valeur": -82.4412
+  },
+  {
+    "$id": "292",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T06:16:00",
+    "valeur": -79.1554
+  },
+  {
+    "$id": "293",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T06:13:00",
+    "valeur": -81.3128
+  },
+  {
+    "$id": "294",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T06:11:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "295",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T06:11:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "296",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T06:11:00",
+    "valeur": -79.5681
+  },
+  {
+    "$id": "297",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T06:11:00",
+    "valeur": -20.925
+  },
+  {
+    "$id": "298",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T06:08:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "299",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T06:07:00",
+    "valeur": -76.5075
+  },
+  {
+    "$id": "300",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T06:06:00",
+    "valeur": -80.2328
+  },
+  {
+    "$id": "301",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T06:03:00",
+    "valeur": -79.8494
+  },
+  {
+    "$id": "302",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T06:01:00",
+    "valeur": -20.5
+  },
+  {
+    "$id": "303",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T06:01:00",
+    "valeur": -19.75
+  },
+  {
+    "$id": "304",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T06:01:00",
+    "valeur": -79.9479
+  },
+  {
+    "$id": "305",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T06:01:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "306",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T05:58:00",
+    "valeur": -18.75
+  },
+  {
+    "$id": "307",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T05:57:00",
+    "valeur": -76.3812
+  },
+  {
+    "$id": "308",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T05:56:00",
+    "valeur": -81.6904
+  },
+  {
+    "$id": "309",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T05:53:00",
+    "valeur": -80.9946
+  },
+  {
+    "$id": "310",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T05:51:00",
+    "valeur": -19.125
+  },
+  {
+    "$id": "311",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T05:51:00",
+    "valeur": -19.6875
+  },
+  {
+    "$id": "312",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T05:51:00",
+    "valeur": -81.2772
+  },
+  {
+    "$id": "313",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T05:51:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "314",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T05:48:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "315",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T05:47:00",
+    "valeur": -78.3381
+  },
+  {
+    "$id": "316",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T05:46:00",
+    "valeur": -79.7891
+  },
+  {
+    "$id": "317",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T05:43:00",
+    "valeur": -80.2948
+  },
+  {
+    "$id": "318",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T05:41:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "319",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T05:41:00",
+    "valeur": -19.125
+  },
+  {
+    "$id": "320",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T05:41:00",
+    "valeur": -78.9984
+  },
+  {
+    "$id": "321",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T05:41:00",
+    "valeur": -21.5325
+  },
+  {
+    "$id": "322",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T05:38:00",
+    "valeur": -19.1875
+  },
+  {
+    "$id": "323",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T05:37:00",
+    "valeur": -80.3581
+  },
+  {
+    "$id": "324",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T05:36:00",
+    "valeur": -79.1554
+  },
+  {
+    "$id": "325",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T05:33:00",
+    "valeur": -80.8674
+  },
+  {
+    "$id": "326",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T05:31:00",
+    "valeur": -19.6875
+  },
+  {
+    "$id": "327",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T05:31:00",
+    "valeur": -20.75
+  },
+  {
+    "$id": "328",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T05:31:00",
+    "valeur": -81.2772
+  },
+  {
+    "$id": "329",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T05:31:00",
+    "valeur": -19.575
+  },
+  {
+    "$id": "330",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T05:28:00",
+    "valeur": -18.75
+  },
+  {
+    "$id": "331",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T05:27:00",
+    "valeur": -82.5675
+  },
+  {
+    "$id": "332",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T05:26:00",
+    "valeur": -80.1694
+  },
+  {
+    "$id": "333",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T05:23:00",
+    "valeur": -80.5492
+  },
+  {
+    "$id": "334",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T05:21:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "335",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T05:21:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "336",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T05:21:00",
+    "valeur": -79.3782
+  },
+  {
+    "$id": "337",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T05:21:00",
+    "valeur": -21.06
+  },
+  {
+    "$id": "338",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T05:18:00",
+    "valeur": -19.5625
+  },
+  {
+    "$id": "339",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T05:17:00",
+    "valeur": -81.0525
+  },
+  {
+    "$id": "340",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T05:16:00",
+    "valeur": -81.6904
+  },
+  {
+    "$id": "341",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T05:13:00",
+    "valeur": -80.4856
+  },
+  {
+    "$id": "342",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T05:11:00",
+    "valeur": -19.875
+  },
+  {
+    "$id": "343",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T05:11:00",
+    "valeur": -20.5
+  },
+  {
+    "$id": "344",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T05:11:00",
+    "valeur": -80.1378
+  },
+  {
+    "$id": "345",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T05:11:00",
+    "valeur": -19.845
+  },
+  {
+    "$id": "346",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T05:08:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "347",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T05:07:00",
+    "valeur": -75.6869
+  },
+  {
+    "$id": "348",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T05:06:00",
+    "valeur": -79.7891
+  },
+  {
+    "$id": "349",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T05:03:00",
+    "valeur": -81.0583
+  },
+  {
+    "$id": "350",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T05:01:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "351",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T05:01:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "352",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T05:01:00",
+    "valeur": -80.9607
+  },
+  {
+    "$id": "353",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T05:01:00",
+    "valeur": -20.655
+  },
+  {
+    "$id": "354",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T04:58:00",
+    "valeur": -19.375
+  },
+  {
+    "$id": "355",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T04:57:00",
+    "valeur": -75.4344
+  },
+  {
+    "$id": "356",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T04:56:00",
+    "valeur": -79.2821
+  },
+  {
+    "$id": "357",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T04:53:00",
+    "valeur": -80.1039
+  },
+  {
+    "$id": "358",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T04:51:00",
+    "valeur": -19.875
+  },
+  {
+    "$id": "359",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T04:51:00",
+    "valeur": -19.875
+  },
+  {
+    "$id": "360",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T04:51:00",
+    "valeur": -79.3149
+  },
+  {
+    "$id": "361",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T04:51:00",
+    "valeur": -19.71
+  },
+  {
+    "$id": "362",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T04:48:00",
+    "valeur": -19.4375
+  },
+  {
+    "$id": "363",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T04:47:00",
+    "valeur": -76.9494
+  },
+  {
+    "$id": "364",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T04:46:00",
+    "valeur": -80.4229
+  },
+  {
+    "$id": "365",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T04:43:00",
+    "valeur": -81.44
+  },
+  {
+    "$id": "366",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T04:41:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "367",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T04:41:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "368",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T04:41:00",
+    "valeur": -81.5304
+  },
+  {
+    "$id": "369",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T04:41:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "370",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T04:38:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "371",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T04:37:00",
+    "valeur": -78.9694
+  },
+  {
+    "$id": "372",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T04:36:00",
+    "valeur": -81.6904
+  },
+  {
+    "$id": "373",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T04:33:00",
+    "valeur": -80.1039
+  },
+  {
+    "$id": "374",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T04:31:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "375",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T04:31:00",
+    "valeur": -19.375
+  },
+  {
+    "$id": "376",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T04:31:00",
+    "valeur": -78.9984
+  },
+  {
+    "$id": "377",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T04:31:00",
+    "valeur": -19.7775
+  },
+  {
+    "$id": "378",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T04:28:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "379",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T04:27:00",
+    "valeur": -81.1787
+  },
+  {
+    "$id": "380",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T04:26:00",
+    "valeur": -79.5356
+  },
+  {
+    "$id": "381",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T04:23:00",
+    "valeur": -81.6945
+  },
+  {
+    "$id": "382",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T04:21:00",
+    "valeur": -18.75
+  },
+  {
+    "$id": "383",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T04:21:00",
+    "valeur": -20.3125
+  },
+  {
+    "$id": "384",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T04:21:00",
+    "valeur": -80.5176
+  },
+  {
+    "$id": "385",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T04:21:00",
+    "valeur": -20.8575
+  },
+  {
+    "$id": "386",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T04:18:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "387",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T04:17:00",
+    "valeur": -82.6306
+  },
+  {
+    "$id": "388",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T04:16:00",
+    "valeur": -79.4723
+  },
+  {
+    "$id": "389",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T04:13:00",
+    "valeur": -79.913
+  },
+  {
+    "$id": "390",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T04:11:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "391",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T04:11:00",
+    "valeur": -18.625
+  },
+  {
+    "$id": "392",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T04:11:00",
+    "valeur": -80.2644
+  },
+  {
+    "$id": "393",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T04:11:00",
+    "valeur": -20.115
+  },
+  {
+    "$id": "394",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T04:08:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "395",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T04:07:00",
+    "valeur": -77.0756
+  },
+  {
+    "$id": "396",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T04:06:00",
+    "valeur": -80.5496
+  },
+  {
+    "$id": "397",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T04:03:00",
+    "valeur": -81.8854
+  },
+  {
+    "$id": "398",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T04:01:00",
+    "valeur": -79.5681
+  },
+  {
+    "$id": "399",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T04:01:00",
+    "valeur": -20.52
+  },
+  {
+    "$id": "400",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T04:01:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "401",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T04:01:00",
+    "valeur": -20.6875
+  },
+  {
+    "$id": "402",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T03:58:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "403",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T03:57:00",
+    "valeur": -75.6237
+  },
+  {
+    "$id": "404",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T03:56:00",
+    "valeur": -81.8171
+  },
+  {
+    "$id": "405",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T03:53:00",
+    "valeur": -79.7221
+  },
+  {
+    "$id": "406",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T03:51:00",
+    "valeur": -19.875
+  },
+  {
+    "$id": "407",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T03:51:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "408",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T03:51:00",
+    "valeur": -81.5937
+  },
+  {
+    "$id": "409",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T03:51:00",
+    "valeur": -20.385
+  },
+  {
+    "$id": "410",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T03:48:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "411",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T03:47:00",
+    "valeur": -77.265
+  },
+  {
+    "$id": "412",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T03:46:00",
+    "valeur": -79.2821
+  },
+  {
+    "$id": "413",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T03:43:00",
+    "valeur": -81.8217
+  },
+  {
+    "$id": "414",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T03:41:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "415",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T03:41:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "416",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T03:41:00",
+    "valeur": -78.9984
+  },
+  {
+    "$id": "417",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T03:41:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "418",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T03:38:00",
+    "valeur": -18.9375
+  },
+  {
+    "$id": "419",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T03:37:00",
+    "valeur": -79.285
+  },
+  {
+    "$id": "420",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T03:36:00",
+    "valeur": -79.4089
+  },
+  {
+    "$id": "421",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T03:33:00",
+    "valeur": -79.5313
+  },
+  {
+    "$id": "422",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T03:31:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "423",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T03:31:00",
+    "valeur": -18.5625
+  },
+  {
+    "$id": "424",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T03:31:00",
+    "valeur": -81.2772
+  },
+  {
+    "$id": "425",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T03:31:00",
+    "valeur": -20.4525
+  },
+  {
+    "$id": "426",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T03:28:00",
+    "valeur": -18.5625
+  },
+  {
+    "$id": "427",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T03:27:00",
+    "valeur": -81.6837
+  },
+  {
+    "$id": "428",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T03:26:00",
+    "valeur": -80.4863
+  },
+  {
+    "$id": "429",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T03:23:00",
+    "valeur": -81.5036
+  },
+  {
+    "$id": "430",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T03:21:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "431",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T03:21:00",
+    "valeur": -19.4375
+  },
+  {
+    "$id": "432",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T03:21:00",
+    "valeur": -79.3149
+  },
+  {
+    "$id": "433",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T03:21:00",
+    "valeur": -19.845
+  },
+  {
+    "$id": "434",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T03:18:00",
+    "valeur": -19.4375
+  },
+  {
+    "$id": "435",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T03:17:00",
+    "valeur": -81.9362
+  },
+  {
+    "$id": "436",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T03:16:00",
+    "valeur": -81.6904
+  },
+  {
+    "$id": "437",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T03:13:00",
+    "valeur": -79.7221
+  },
+  {
+    "$id": "438",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T03:11:00",
+    "valeur": -18.9375
+  },
+  {
+    "$id": "439",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T03:11:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "440",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T03:11:00",
+    "valeur": -80.391
+  },
+  {
+    "$id": "441",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T03:11:00",
+    "valeur": -20.655
+  },
+  {
+    "$id": "442",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T03:08:00",
+    "valeur": -18.3125
+  },
+  {
+    "$id": "443",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T03:07:00",
+    "valeur": -75.6869
+  },
+  {
+    "$id": "444",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T03:06:00",
+    "valeur": -79.2821
+  },
+  {
+    "$id": "445",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T03:03:00",
+    "valeur": -81.3128
+  },
+  {
+    "$id": "446",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T03:01:00",
+    "valeur": -19.575
+  },
+  {
+    "$id": "447",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T03:01:00",
+    "valeur": -20.5
+  },
+  {
+    "$id": "448",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T03:01:00",
+    "valeur": -18.875
+  },
+  {
+    "$id": "449",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T03:01:00",
+    "valeur": -80.5809
+  },
+  {
+    "$id": "450",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T02:58:00",
+    "valeur": -19.6875
+  },
+  {
+    "$id": "451",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T02:57:00",
+    "valeur": -76.76
+  },
+  {
+    "$id": "452",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T02:56:00",
+    "valeur": -79.5356
+  },
+  {
+    "$id": "453",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T02:53:00",
+    "valeur": -79.913
+  },
+  {
+    "$id": "454",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T02:51:00",
+    "valeur": -19.125
+  },
+  {
+    "$id": "455",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T02:51:00",
+    "valeur": -20.75
+  },
+  {
+    "$id": "456",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T02:51:00",
+    "valeur": -79.3782
+  },
+  {
+    "$id": "457",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T02:51:00",
+    "valeur": -20.8575
+  },
+  {
+    "$id": "458",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T02:48:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "459",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T02:47:00",
+    "valeur": -78.7169
+  },
+  {
+    "$id": "460",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T02:46:00",
+    "valeur": -80.7398
+  },
+  {
+    "$id": "461",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T02:43:00",
+    "valeur": -81.0583
+  },
+  {
+    "$id": "462",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T02:41:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "463",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T02:41:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "464",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T02:41:00",
+    "valeur": -81.7203
+  },
+  {
+    "$id": "465",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T02:41:00",
+    "valeur": -19.98
+  },
+  {
+    "$id": "466",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T02:38:00",
+    "valeur": -19.9375
+  },
+  {
+    "$id": "467",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T02:37:00",
+    "valeur": -80.8
+  },
+  {
+    "$id": "468",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T02:36:00",
+    "valeur": -81.5003
+  },
+  {
+    "$id": "469",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T02:33:00",
+    "valeur": -80.2311
+  },
+  {
+    "$id": "470",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T02:31:00",
+    "valeur": -19.4375
+  },
+  {
+    "$id": "471",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T02:31:00",
+    "valeur": -20.3125
+  },
+  {
+    "$id": "472",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T02:31:00",
+    "valeur": -78.7452
+  },
+  {
+    "$id": "473",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T02:31:00",
+    "valeur": -20.655
+  },
+  {
+    "$id": "474",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T02:28:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "475",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T02:27:00",
+    "valeur": -82.6937
+  },
+  {
+    "$id": "476",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T02:26:00",
+    "valeur": -79.0286
+  },
+  {
+    "$id": "477",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T02:23:00",
+    "valeur": -80.7401
+  },
+  {
+    "$id": "478",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T02:21:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "479",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T02:21:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "480",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T02:21:00",
+    "valeur": -80.391
+  },
+  {
+    "$id": "481",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T02:21:00",
+    "valeur": -19.71
+  },
+  {
+    "$id": "482",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T02:18:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "483",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T02:17:00",
+    "valeur": -78.5275
+  },
+  {
+    "$id": "484",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T02:16:00",
+    "valeur": -79.6624
+  },
+  {
+    "$id": "485",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T02:13:00",
+    "valeur": -80.8674
+  },
+  {
+    "$id": "486",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T02:11:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "487",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T02:11:00",
+    "valeur": -19.75
+  },
+  {
+    "$id": "488",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T02:11:00",
+    "valeur": -80.6442
+  },
+  {
+    "$id": "489",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T02:11:00",
+    "valeur": -21.06
+  },
+  {
+    "$id": "490",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T02:08:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "491",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T02:07:00",
+    "valeur": -75.4344
+  },
+  {
+    "$id": "492",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T02:06:00",
+    "valeur": -80.9933
+  },
+  {
+    "$id": "493",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T02:03:00",
+    "valeur": -80.5492
+  },
+  {
+    "$id": "494",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T02:01:00",
+    "valeur": -19.375
+  },
+  {
+    "$id": "495",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T02:01:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "496",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T02:01:00",
+    "valeur": -79.3149
+  },
+  {
+    "$id": "497",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T02:01:00",
+    "valeur": -19.98
+  },
+  {
+    "$id": "498",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T01:58:00",
+    "valeur": -18.5
+  },
+  {
+    "$id": "499",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T01:57:00",
+    "valeur": -76.3181
+  },
+  {
+    "$id": "500",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T01:56:00",
+    "valeur": -81.1834
+  },
+  {
+    "$id": "501",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T01:53:00",
+    "valeur": -80.9946
+  },
+  {
+    "$id": "502",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T01:51:00",
+    "valeur": -19.4375
+  },
+  {
+    "$id": "503",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T01:51:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "504",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T01:51:00",
+    "valeur": -81.5304
+  },
+  {
+    "$id": "505",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T01:51:00",
+    "valeur": -21.1275
+  },
+  {
+    "$id": "506",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T01:48:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "507",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T01:47:00",
+    "valeur": -78.3381
+  },
+  {
+    "$id": "508",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T01:46:00",
+    "valeur": -78.7751
+  },
+  {
+    "$id": "509",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T01:43:00",
+    "valeur": -80.2948
+  },
+  {
+    "$id": "510",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T01:41:00",
+    "valeur": -19.5625
+  },
+  {
+    "$id": "511",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T01:41:00",
+    "valeur": -20.75
+  },
+  {
+    "$id": "512",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T01:41:00",
+    "valeur": -78.9351
+  },
+  {
+    "$id": "513",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T01:41:00",
+    "valeur": -19.71
+  },
+  {
+    "$id": "514",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T01:38:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "515",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T01:37:00",
+    "valeur": -80.3581
+  },
+  {
+    "$id": "516",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T01:36:00",
+    "valeur": -79.7258
+  },
+  {
+    "$id": "517",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T01:33:00",
+    "valeur": -81.44
+  },
+  {
+    "$id": "518",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T01:31:00",
+    "valeur": -19.375
+  },
+  {
+    "$id": "519",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T01:31:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "520",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T01:31:00",
+    "valeur": -80.6442
+  },
+  {
+    "$id": "521",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T01:31:00",
+    "valeur": -20.655
+  },
+  {
+    "$id": "522",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T01:28:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "523",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T01:27:00",
+    "valeur": -82.5044
+  },
+  {
+    "$id": "524",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T01:26:00",
+    "valeur": -81.1834
+  },
+  {
+    "$id": "525",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T01:23:00",
+    "valeur": -79.9766
+  },
+  {
+    "$id": "526",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T01:21:00",
+    "valeur": -19.8125
+  },
+  {
+    "$id": "527",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T01:21:00",
+    "valeur": -20.5
+  },
+  {
+    "$id": "528",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T01:21:00",
+    "valeur": -80.2644
+  },
+  {
+    "$id": "529",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T01:21:00",
+    "valeur": -20.1825
+  },
+  {
+    "$id": "530",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T01:18:00",
+    "valeur": -18.1875
+  },
+  {
+    "$id": "531",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T01:17:00",
+    "valeur": -79.6006
+  },
+  {
+    "$id": "532",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T01:16:00",
+    "valeur": -80.8665
+  },
+  {
+    "$id": "533",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T01:13:00",
+    "valeur": -81.8854
+  },
+  {
+    "$id": "534",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T01:11:00",
+    "valeur": -18.9375
+  },
+  {
+    "$id": "535",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T01:11:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "536",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T01:11:00",
+    "valeur": -79.8213
+  },
+  {
+    "$id": "537",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T01:11:00",
+    "valeur": -20.52
+  },
+  {
+    "$id": "538",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T01:08:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "539",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T01:07:00",
+    "valeur": -75.4975
+  },
+  {
+    "$id": "540",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T01:06:00",
+    "valeur": -78.9653
+  },
+  {
+    "$id": "541",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T01:03:00",
+    "valeur": -79.7221
+  },
+  {
+    "$id": "542",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T01:01:00",
+    "valeur": -20.1875
+  },
+  {
+    "$id": "543",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T01:01:00",
+    "valeur": -19.875
+  },
+  {
+    "$id": "544",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T01:01:00",
+    "valeur": -81.4671
+  },
+  {
+    "$id": "545",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T01:01:00",
+    "valeur": -19.7775
+  },
+  {
+    "$id": "546",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T00:58:00",
+    "valeur": -18.375
+  },
+  {
+    "$id": "547",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T00:57:00",
+    "valeur": -76.4444
+  },
+  {
+    "$id": "548",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T00:56:00",
+    "valeur": -79.9159
+  },
+  {
+    "$id": "549",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T00:53:00",
+    "valeur": -81.7581
+  },
+  {
+    "$id": "550",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T00:51:00",
+    "valeur": -19.375
+  },
+  {
+    "$id": "551",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T00:51:00",
+    "valeur": -18.875
+  },
+  {
+    "$id": "552",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T00:51:00",
+    "valeur": -79.0617
+  },
+  {
+    "$id": "553",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T00:51:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "554",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T00:48:00",
+    "valeur": -20.25
+  },
+  {
+    "$id": "555",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T00:47:00",
+    "valeur": -78.4644
+  },
+  {
+    "$id": "556",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T00:46:00",
+    "valeur": -81.5003
+  },
+  {
+    "$id": "557",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T00:43:00",
+    "valeur": -79.5313
+  },
+  {
+    "$id": "558",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T00:41:00",
+    "valeur": -19.125
+  },
+  {
+    "$id": "559",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T00:41:00",
+    "valeur": -19.3125
+  },
+  {
+    "$id": "560",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T00:41:00",
+    "valeur": -81.3405
+  },
+  {
+    "$id": "561",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T00:41:00",
+    "valeur": -19.71
+  },
+  {
+    "$id": "562",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T00:38:00",
+    "valeur": -18.5625
+  },
+  {
+    "$id": "563",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T00:37:00",
+    "valeur": -80.6738
+  },
+  {
+    "$id": "564",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T00:36:00",
+    "valeur": -80.1694
+  },
+  {
+    "$id": "565",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T00:33:00",
+    "valeur": -81.44
+  },
+  {
+    "$id": "566",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T00:31:00",
+    "valeur": -20.0625
+  },
+  {
+    "$id": "567",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T00:31:00",
+    "valeur": -20.5
+  },
+  {
+    "$id": "568",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T00:31:00",
+    "valeur": -79.3149
+  },
+  {
+    "$id": "569",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T00:31:00",
+    "valeur": -20.8575
+  },
+  {
+    "$id": "570",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T00:28:00",
+    "valeur": -20.125
+  },
+  {
+    "$id": "571",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T00:27:00",
+    "valeur": -82.5044
+  },
+  {
+    "$id": "572",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T00:26:00",
+    "valeur": -79.092
+  },
+  {
+    "$id": "573",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T00:23:00",
+    "valeur": -79.7221
+  },
+  {
+    "$id": "574",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T00:21:00",
+    "valeur": -19.0625
+  },
+  {
+    "$id": "575",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T00:21:00",
+    "valeur": -18.625
+  },
+  {
+    "$id": "576",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T00:21:00",
+    "valeur": -80.391
+  },
+  {
+    "$id": "577",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T00:21:00",
+    "valeur": -19.845
+  },
+  {
+    "$id": "578",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T00:18:00",
+    "valeur": -19.0
+  },
+  {
+    "$id": "579",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T00:17:00",
+    "valeur": -77.77
+  },
+  {
+    "$id": "580",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T00:16:00",
+    "valeur": -80.1694
+  },
+  {
+    "$id": "581",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T00:13:00",
+    "valeur": -81.3128
+  },
+  {
+    "$id": "582",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T00:11:00",
+    "valeur": -20.125
+  },
+  {
+    "$id": "583",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T00:11:00",
+    "valeur": -20.6875
+  },
+  {
+    "$id": "584",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T00:11:00",
+    "valeur": -80.8974
+  },
+  {
+    "$id": "585",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T00:11:00",
+    "valeur": -20.7225
+  },
+  {
+    "$id": "586",
+    "idcapteur": 9,
+    "dateheure": "2015-05-08T00:08:00",
+    "valeur": -18.5625
+  },
+  {
+    "$id": "587",
+    "idcapteur": 6,
+    "dateheure": "2015-05-08T00:07:00",
+    "valeur": -76.0025
+  },
+  {
+    "$id": "588",
+    "idcapteur": 3,
+    "dateheure": "2015-05-08T00:06:00",
+    "valeur": -81.5636
+  },
+  {
+    "$id": "589",
+    "idcapteur": 1,
+    "dateheure": "2015-05-08T00:03:00",
+    "valeur": -79.9766
+  },
+  {
+    "$id": "590",
+    "idcapteur": 5,
+    "dateheure": "2015-05-08T00:01:00",
+    "valeur": -19.5
+  },
+  {
+    "$id": "591",
+    "idcapteur": 8,
+    "dateheure": "2015-05-08T00:01:00",
+    "valeur": -18.25
+  },
+  {
+    "$id": "592",
+    "idcapteur": 2,
+    "dateheure": "2015-05-08T00:01:00",
+    "valeur": -79.125
+  },
+  {
+    "$id": "593",
+    "idcapteur": 7,
+    "dateheure": "2015-05-08T00:01:00",
+    "valeur": -20.115
+  }
+]

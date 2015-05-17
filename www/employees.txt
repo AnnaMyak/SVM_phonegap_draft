@@ -1,0 +1,66 @@
+[
+			{
+			"firstName":"John", 
+			"lastName":"Doe",
+			"workstation":"Maja UTK4",
+			"position":"position", 
+			"telNumber":"1111111"
+			},
+			{
+			"firstName":"Anna",
+			"lastName":"Smith", 
+			"workstation":"Maja UTK4",
+			"position":"position", 
+			"telNumber":"22222222"
+			},
+			{
+			"firstName":"Peter",
+			"lastName":"Jones",
+			"workstation":"Maja UTK4",
+			"position":"position",
+			"telNumber":"3333333"
+			},
+			{
+			"firstName":"John", 
+			"lastName":"Doe",
+			"workstation":"Snoopy UTK5",
+			"position":"position", 
+			"telNumber":"444444444"
+			},
+			{
+			"firstName":"Anna",
+			"lastName":"Smith", 
+			"workstation":"Snoopy UTK5",
+			"position":"position", 
+			"telNumber":"555555"
+			},
+			{
+			"firstName":"Peter",
+			"lastName":"Jones",
+			"workstation":"Snoopy UTK5",
+			"position":"position",
+			"telNumber":"6666666"
+			},
+			{
+			"firstName":"John", 
+			"lastName":"Doe",
+			"workstation":"Sid UTK2",
+			"position":"position", 
+			"telNumber":"77777777"
+			},
+			{
+			"firstName":"Anna",
+			"lastName":"Smith", 
+			"workstation":"Sid UTK2",
+			"position":"position", 
+			"telNumber":"888888"
+			},
+			{
+			"firstName":"Peter",
+			"lastName":"Jones",
+			"workstation":"Sid UTK2",
+			"position":"position",
+			"telNumber":"999999999"
+			}
+			
+]	

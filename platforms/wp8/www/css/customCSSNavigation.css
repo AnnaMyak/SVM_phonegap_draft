@@ -1,0 +1,25 @@
+a 
+	{
+	font-size:20px;
+	color:#FFFFFF; 
+	font-weight:bold;
+	display: block;
+	text-decoration: none;
+	padding : 3px;
+	margin:3px;
+	}
+a:hover
+	{
+	text-decoration: none;
+	}
+	
+span.glyphicon-align-justify {
+    font-size: 2em;
+	margin:2px;
+	padding:2px;
+}
+
+body
+	{
+	margin:3px;
+	}

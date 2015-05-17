@@ -1,0 +1,78 @@
+<html>
+  <head>
+    <title>Communication</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Slidebars CSS -->
+    <link rel="stylesheet" href="css/slidebars.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/customCSSNavigation.css">
+
+  </head>
+
+  <body>
+    <div id="sb-site">
+		<div>
+		<div class="sb-open-left" style="float: left;">
+          <span class="glyphicon glyphicon-align-justify"></span>
+		</div>
+		</div>
+		<br>
+		<h3>Communication</h3>
+		<div style="width=100%">
+      <!-- Your main site content. -->
+	<div class="container">
+	<form role="form">
+    <div class="form-group">
+      <label for="sel1">Employees</label>
+      <select class="form-control" id="sel1">
+	  </select>
+	  <br>
+	<button type="button" class="btn btn-primary btn-lg btn-block" onclick="" >Call</button>
+	<br>
+	<button type="button" class="btn btn-default btn-lg btn-block">SMS</button>
+	</div>
+	</div>
+	</div>
+	</div>
+	
+	
+    <div class="sb-slidebar sb-left" >
+      <!-- Your left Slidebar content. -->
+                <a href='monitoring.html'>Monitoring</a>
+                <a href='configuration.html'>Configuration</a>
+                <a href='communication.html'>Communication</a>
+                <a href='index.html'>Home</a>
+    </div>
+
+    	<script src="js/jquery-1.11.2.js"></script>
+    <!-- Slidebars -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/slidebars.js"></script>
+    <script>
+      (function($) {
+        $(document).ready(function() {
+          $.slidebars();
+        });
+      }) (jQuery);
+		var xmlhttp = new XMLHttpRequest();
+		var url = "employees.txt";
+		xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        var myArr = JSON.parse(xmlhttp.responseText);
+		myFunctionSel(myArr);
+			}
+		}
+		xmlhttp.open("GET", url, true);
+		xmlhttp.send();
+	function myFunctionSel(arr) {
+    var out = "";
+    var i;
+    for(i = 0; i < arr.length; i++) 
+		{
+			out +="<option>"+"Firstname: " + arr[i].firstName + ' '+"Lastname: " + arr[i].lastName +" Workstation: "+ ' '+ arr[i].workstation +' '+"Telnumber: " +arr[i].telNumber+"</option>";
+		}
+    document.getElementById("sel1").innerHTML = out;
+	}
+	</script>
+  </body>
+</html>

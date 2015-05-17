@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <title>Configuration</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Slidebars CSS -->
+    <link rel="stylesheet" href="css/slidebars.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/customCSSNavigation.css">
+  </head>
+  <body>
+    <div id="sb-site">
+		<div>
+		<div class="sb-open-left" style="float: left;">
+          <span class="glyphicon glyphicon-align-justify"></span>
+		</div>
+		</div>
+		<br>
+		<h3>Configuration</h3>
+		<div style="width=100%">
+      <!-- Your main site content. -->
+  <div class="container">
+  <form role="form" >
+    <div class="form-group">
+      <label for="sel1">Selector</label>
+      <select class="form-control" id="sel1">
+			<option value="SnoopyUTK5">Snoopy UTK5</option>
+			<option value="SidUTK2">Sid UTK2</option>
+			<option value="ManniUTK1">Manni UTK1</option>
+			<option value="SebastianTK3">Sebastian TK3</option>
+			<option value="WilliUTK3">Willi UTK3</option>
+			<option value="DiegoTK1">Diego TK1</option>
+			<option value="AriellTK2">Ariell TK2</option>
+			<option value="NemoTK4">Nemo TK4</option>		
+      </select>
+      <br>
+	<h4>Aktuelle Einstellungen</h4>
+	<button type="button" class="btn btn-primary btn-lg btn-block">aktuelle Einstellungen</button>	
+	<form class="form-inline" role="form">
+    <div class="form-group">
+      <label for="MinActual">Min:</label>
+      <input type="text" class="form-control" id="Min_getActual" readonly>
+    </div>
+    <div class="form-group">
+      <label for="MaxActual">Max:</label>
+      <input type="text" class="form-control" id="Max_getActual" readonly>
+    </div>
+	</form>    
+	<h4>Einstellungen aendern</h4>  
+	<h4>Min</h4>
+		<div>                       
+			<input type="number" id="replyNumberMin" min ="-83" max="-77" data-bind="value:replyNumber" style="margin:8px"/>
+		</div>
+	<h4>Max</h4>
+		<div>                       
+			<input type="number" id="replyNumberMax" min ="-83" max="-77" data-bind="value:replyNumber" style="margin:8px"/>
+		</div>
+	<button type="button" class="btn btn-primary btn-lg btn-block">Einstellungen aendern</button>
+	  </div>
+    </div>
+	</div>
+	</div>
+    <div class="sb-slidebar sb-left" >
+      <!-- Your left Slidebar content. -->
+                <a href='monitoring.html'>Monitoring</a>
+                <a href='configuration.html'>Configuration</a>
+                <a href='communication.html'>Communication</a>
+                <a href='index.html'>Home</a>
+    </div>
+    <script src="js/jquery-1.11.2.js"></script>
+    <!-- Slidebars -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/slidebars.js"></script>
+    <script>
+      (function($) {
+        $(document).ready(function() {
+          $.slidebars();
+        });
+      }) (jQuery);
+    </script>
+  </body>
+</html>
